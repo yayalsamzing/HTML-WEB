@@ -1,0 +1,13 @@
+h1 {
+    color: blue;
+    font-size: 18pt;
+}
+h2 {
+    color: red;
+    font-size: 16pt;
+}
+p {
+    color: orange;
+    font-size: 12pt;
+    font-family: Arial, sans-serif;
+}
