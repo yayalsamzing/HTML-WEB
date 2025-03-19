@@ -1,16 +1,19 @@
 h1 {
     color: blue;
     font-size: 18pt; 
-    text-align: center;
+    text-align: center; 
+    width:600px; 
 }
 h2 {
     color: red;
     font-size: 16pt; 
-    text-align: center;
+    text-align: center; 
+    width:600px; 
 }
 p {
     color: #253f2c;
     font-size: 12pt;
     font-family: Arial, sans-serif; 
-    text-align: center;
+    text-align: center; 
+    width:600px; 
 }
