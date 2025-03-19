@@ -1,13 +1,16 @@
 h1 {
     color: blue;
-    font-size: 18pt;
+    font-size: 18pt; 
+    text-align: center;
 }
 h2 {
     color: red;
-    font-size: 16pt;
+    font-size: 16pt; 
+    text-align: center;
 }
 p {
-    color: orange;
+    color: #cdecd5;
     font-size: 12pt;
-    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif; 
+    text-align: center;
 }
