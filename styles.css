@@ -1,4 +1,8 @@
 img { 
-margin-left: 100;
-margin-right: 100;
+margin-left: 100PX;
+margin-right: 100px;
+}
+body { 
+    margin: 50%;
+    white-space: 10PX;
 }
