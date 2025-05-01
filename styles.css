@@ -1,10 +1,19 @@
-body { 
-margin: 0 0 0 0px;
-white-space: 0;
-text-align: center;
-width: fit-content;
-}
 h1 {
-    text-align: center;
-    width: 100px;
+font-size:100px;
+    color:  rgb(255, 0, 0);
+  
+}
+h2 {
+    color: rgb(255, 0, 0);
+    font-size: 16px;
+    text-align: center; 
+    width:600px; 
+  font-family: 'Trebuchet MS', sans-serif;
+}
+p {
+    color:  rgb(255, 0, 0);
+    font-size: 12pt;
+    font-family: Arial, sans-serif; 
+    text-align: center; 
+    width:600px; 
 }
